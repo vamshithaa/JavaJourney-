@@ -20,7 +20,7 @@
     <section>
         <h2>Setup Instructions</h2>
         <p>Clone the repo, navigate to the folder, and run:</p>
-        <pre><code>javac Quiz.java </code></pre>
+        <pre><code>javac QuizGame.java </code></pre>
         <pre><code>javac EnhancedToDoList.java </code></pre>
     </section>
     <footer>
