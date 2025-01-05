@@ -20,8 +20,8 @@
     <section>
         <h2>Setup Instructions</h2>
         <p>Clone the repo, navigate to the folder, and run:</p>
-        <pre><code>javac Quiz.java && java QuizApp</code></pre>
-        <pre><code>javac EnhancedToDoList.java && java TodoList</code></pre>
+        <pre><code>javac Quiz.java </code></pre>
+        <pre><code>javac EnhancedToDoList.java </code></pre>
     </section>
     <footer>
         <p>&copy; 2025 Vamshitha R Poojary</p>
